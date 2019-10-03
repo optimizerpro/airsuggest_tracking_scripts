@@ -1,0 +1,4 @@
+airsuggest_tracking_scripts.admin.header:
+  route_name: airsuggest_tracking_scripts.admin.header
+  title: 'Header Scripts'
+  base_route: airsuggest_tracking_scripts.admin.header

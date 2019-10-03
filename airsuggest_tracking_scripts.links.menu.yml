@@ -1,0 +1,5 @@
+airsuggest_tracking_scripts.admin.header:
+  title: 'Airsuggest Tracking Scripts'
+  description: 'Allow to give option to add tracking code of airsuggest.'
+  parent: system.admin_config_development
+  route_name: airsuggest_tracking_scripts.admin.header

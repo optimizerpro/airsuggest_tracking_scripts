@@ -1,0 +1,4 @@
+airsuggest_tracking_scripts_settings:
+  title: 'Add Tracking Code all over the site'
+  description: 'Users who have this permission can add and remove the Tracking Code from the site.'
+  restrict access: TRUE

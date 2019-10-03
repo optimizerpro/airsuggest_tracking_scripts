@@ -1,0 +1,14 @@
+name: Airsuggest Tracking Scripts
+description: This plugin allows you to add the tracking code on overall site from the front-end. No need to open files and add them there.
+package: Airsuggest
+
+type: module
+# core: 8.x
+
+configure: airsuggest_tracking_scripts.admin.header
+
+# Information added by Drupal.org packaging script on 2019-10-03
+version: '8.x-1.0'
+core: '8.x'
+project: 'airsuggest_tracking_scripts'
+datestamp: 1570127501

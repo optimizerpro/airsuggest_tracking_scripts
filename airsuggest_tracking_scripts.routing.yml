@@ -1,0 +1,7 @@
+airsuggest_tracking_scripts.admin.header:
+  path: '/admin/config/development/airsuggest-tracking-scripts/header'
+  defaults:
+    _form: '\Drupal\airsuggest_tracking_scripts\Form\HeaderForm'
+    _title: 'Airsuggest Tracking Scripts Settings for head'
+  requirements:
+    _permission: 'airsuggest_tracking_scripts_settings'
